@@ -85,9 +85,9 @@ Please refer to the [XcodeGen documentation](https://github.com/yonaskolb/XcodeG
 
 ### CPU Architectures
 
-Kiwix compiles on both macOS architectures x86_64 and arm64 (Apple silicon).
+Kiwix compiles on arm64 (Apple silicon).
 
-Kiwix for iOS and macOS can run, in both cases, on x86_64 or arm64.
+Kiwix for iOS and macOS can run, in both cases, on arm64.
 
 ### Testing
 
